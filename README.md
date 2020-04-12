@@ -1,6 +1,10 @@
 # Start-up deffered payment via shares analysis
 
-Run [Phantom Shares notebook.](deferred-payments-shares/Phantom-Shares.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KikeM/deferred-payments-shares/master?filepath=Phantom-Shares.ipynb)
+
+Run `Phantom-Shares.ipynb` to see the analysis.
+
+Computing net salary with the (Neuvoo)[https://neuvoo.es/calculadora-de-impuesto/] engine. 
 
 ## Install
 
