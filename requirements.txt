@@ -8,3 +8,4 @@ jupyter-client==6.0.0
 jupyter-console==6.1.0              
 jupyter-core==4.6.3 
 pytest==5.4.1
+tqdm==4.43.0
