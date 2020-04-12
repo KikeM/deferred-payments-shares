@@ -4,7 +4,7 @@
 
 Run `Phantom-Shares.ipynb` to see the analysis.
 
-Computing net salary with the (Neuvoo)[https://neuvoo.es/calculadora-de-impuesto/] engine. 
+Computing net salary with the [Neuvoo](https://neuvoo.es/calculadora-de-impuesto/) engine.
 
 ## Install
 
